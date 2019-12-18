@@ -1,8 +1,8 @@
 # A sample Gemfile
-source "https://rubygems.org"
+source "https://rubygems.org/"
 
 # Database
-gem 'sqlite3', '~>1.3.6'
+gem 'sqlite3'
 
 # Testing
 gem 'rspec'
